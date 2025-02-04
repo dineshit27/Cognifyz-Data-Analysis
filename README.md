@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/d4e24b8d-1600-4bc7-b8d2-1525eab3d756)
-
 ![image](https://github.com/user-attachments/assets/c2b2da51-f1d1-4d22-b3d9-c9d47b3110e7)
 
 
@@ -83,23 +81,8 @@ graph LR
 
 
 
-# 🌟 Cognifyz Technologies: Internship Guidelines and Best Practices
 
-## 🔹 About Cognifyz Technologies
-Cognifyz Technologies is a leading technology company specializing in data science, artificial intelligence (AI), machine learning (ML), and data analytics solutions. We are committed to delivering innovative, impactful projects and offering skill-enhancing training programs that prepare professionals for industry challenges.
 
-## 💼 Enhancing Your Professional Presence
-Maximize your professional growth by sharing your achievements on LinkedIn. Highlight your offer letter, completed tasks, or internship completion certificate to showcase your experience. Ensure to tag **Cognifyz Technologies** and use these hashtags for greater reach:
-- #cognifyz
-- #cognifyzTech
-- #cognifyzTechnologies
-
-## 📋 Key Guidelines
-1. **🔍 Maintain Academic Integrity**: Submitting original work is essential. Plagiarism or copying code may lead to termination of your internship and restrict future opportunities.
-2. **🎥 Project Showcasing**:
-   - Create a professional video highlighting your completed tasks and achievements.
-   - Post the video on LinkedIn to establish credibility among peers.
-   - Tag **Cognifyz Technologies** and use relevant hashtags for visibility.
 
 ## 🏆 Task Levels and Submission
 Choose and complete any 2 out of the 3 levels below. Successfully completing **Level 3** (2 out of 4 tasks) may improve your chances of receiving a stipend.
@@ -120,13 +103,7 @@ Choose and complete any 2 out of the 3 levels below. Successfully completing **L
 ### 🔹 Level 3: Advanced Analysis (Optional for Stipend)
 - Complete any 2 out of 4 advanced tasks to qualify for the stipend.
 
-## 📥 Submission Process
-A submission form will be shared at a later date. Until then, continue your tasks and maintain separate files for each level.
 
-## 🌐 Best Practices for LinkedIn Posts
-- **📝 Create Quality Content**: Provide detailed explanations and visual evidence of your work.
-- **🔖 Tagging and Hashtags**: Tag **Cognifyz Technologies** and include hashtags like #cognifyz, #cognifyzTech, and #cognifyzTechnologies.
-- **🎬 Video Demonstrations**: A well-made video can significantly boost engagement and establish your credibility.
 
 ### Overview of Directories:
 - **LEVEL 1**: Initial data exploration and preprocessing with geospatial visualizations.
